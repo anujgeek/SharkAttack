@@ -59,11 +59,15 @@ Use 'r' key to restart.
 Sprites:
 
 All backgrounds completely made from scratch in illustrator/photoshop.
+<br>
 Used vectors for characters from:
+<br>
 Shark, Angry Bird, Santa taken from: http://all-free-download.com/
+<br>
 Birds taken from: http://opengameart.org/content/game-characters-flying-birds-attack-sprite-sheets
 
 Sounds:
 
 http://www.playonloop.com/
+<br>
 http://themushroomkingdom.net/
