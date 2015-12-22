@@ -1,13 +1,19 @@
-# CpSc_8700_Game_Shark_Attack
-Game: Shark Attack - Final project for Clemson University CpSc 8700 Object Oriented Software Development Created using C++ and SDL
+# Game: Shark Attack
+Created by: Anuj Agrawal (Email: anuja@clemson.edu)
+<br>
+Class website: http://people.cs.clemson.edu/~malloy/courses/8700-2015/index.html
 
-Name: Anuj Agrawal
-Clemson Email Address: anuja@clemson.edu
+Final project for:
+<br>
+Clemson University CpSc 8700 Object Oriented Software Development
+<br>
+Created using C++ and SDL
 
-Project no: 6
-Project due date: 12/04/2015
+## Demo:
 
-Project description:
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2exu1oP0Cw0" target="_blank"><img src="http://img.youtube.com/vi/2exu1oP0Cw0/0.jpg" alt="MARIO" border="10"/></a>
+
+## Project description:
 
 Shark Attack: Game and objective
 The game is a horizontal scroller.
