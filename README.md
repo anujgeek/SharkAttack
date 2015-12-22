@@ -51,12 +51,16 @@ Use 'o' key to toggle slow motion.
 Use 'g' key to toggle god mode.
 Use 'r' key to restart.
 
+## Resources:
+
 Sprites:
+
 All backgrounds completely made from scratch in illustrator/photoshop.
 Used vectors for characters from:
 Shark, Angry Bird, Santa taken from: http://all-free-download.com/
 Birds taken from: http://opengameart.org/content/game-characters-flying-birds-attack-sprite-sheets
 
-Sounds taken from:
+Sounds:
+
 http://www.playonloop.com/
 http://themushroomkingdom.net/
