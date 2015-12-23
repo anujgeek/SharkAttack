@@ -5,7 +5,7 @@ Class website: http://people.cs.clemson.edu/~malloy/courses/8700-2015/index.html
 
 Final project for:
 <br>
-Clemson University CpSc 8700 Object Oriented Software Development
+Clemson University - CpSc 8700 - Object Oriented Software Development
 <br>
 Created using C++ and SDL
 
