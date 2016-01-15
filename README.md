@@ -7,7 +7,9 @@ Final project for:
 <br>
 Clemson University - CpSc 8700 - Object Oriented Software Development
 <br>
-Created using C++ and SDL
+Created using:
+<br>
+FrontEnd: C++ and SDL
 
 ## Demo:
 
